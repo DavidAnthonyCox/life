@@ -1,0 +1,2 @@
+# Life
+It's not a particularly terse implementation. I'm not sure it really has any good qualities. It does use recursion... wait, did I comment those lines out? Whatever, stuff like this is fun to play with.
